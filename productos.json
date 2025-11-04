@@ -1,0 +1,17 @@
+{
+  "productos": [
+    {
+      "codigo": "1",
+      "nombre": "Harry potter",
+      "categoria": "Fantasia",
+      "cantidad": 1,
+      "precio": 50000.0,
+      "descripcion": "libro de harry potte",
+      "fecha_creacion": "2025-11-04T12:52:47.196444",
+      "fecha_modificacion": "2025-11-04T12:53:35.526750"
+    }
+  ],
+  "categorias": [
+    "Fantasia"
+  ]
+}
